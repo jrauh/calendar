@@ -1,0 +1,17 @@
+{
+  "name": "calendar",
+  "homepage": "https://github.com/jrauh/calendar",
+  "authors": [
+    "Jared Rauh <jared.rauh@samaritanministries.org>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
