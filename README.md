@@ -1,0 +1,2 @@
+# calendar
+Minimal daily calendar
